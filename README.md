@@ -29,7 +29,7 @@ Output Format
 Print the decoded matrix script.
 
 Sample Input 0
-
+![Alt text](https://github.com/jlvasquezcollado/MatrixScript/blob/master/matrix_sample.png?raw=true "Title")
 
 
 Sample Output 
