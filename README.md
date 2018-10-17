@@ -29,15 +29,16 @@ Output Format
 Print the decoded matrix script.
 
 Sample Input 0
-
+'''
 7 3
-Tsi
+T s i
 h%x
 i #
 sM 
 $a 
 #t%
 ir!
+'''
 
 Sample Output 
 
