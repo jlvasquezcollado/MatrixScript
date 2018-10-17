@@ -1,10 +1,10 @@
 # MatrixScript
 
-##PROBLEM ORIGIN : HACKERRANK
-##DIFFICULTY:      HARD
-##LANGUAGE:        PYTHON 3
+## PROBLEM ORIGIN : HACKERRANK
+## DIFFICULTY:      HARD
+## LANGUAGE:        PYTHON 3
 
-###PROBLEM:
+### PROBLEM:
 Neo has a complex matrix script. The matrix script is a X grid of strings. It consists of alphanumeric characters, spaces and symbols (!,@,#,$,%,&).
 
 To decode the script, Neo needs to read each column and select only the alphanumeric characters and connect them. Neo reads the column from top to bottom and starts reading from the leftmost column.
