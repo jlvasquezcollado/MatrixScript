@@ -44,6 +44,6 @@ This$#is% Matrix#  %!
 
 Neo replaces the symbols or spaces between two alphanumeric characters with a single space   ' ' for better readability.
 
-So, the final decoded script is:
+**So, the final decoded script is:** 
 
-This is Matrix#  %!
+## This is Matrix#  %!
